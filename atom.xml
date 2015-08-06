@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[N K]]></title>
+  <link href="http://nancyko.github.io/atom.xml" rel="self"/>
+  <link href="http://nancyko.github.io/"/>
+  <updated>2015-08-05T21:13:37-04:00</updated>
+  <id>http://nancyko.github.io/</id>
+  <author>
+    <name><![CDATA[nancyko]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My First Post]]></title>
+    <link href="http://nancyko.github.io/blog/2015/08/05/my-first-post/"/>
+    <updated>2015-08-05T21:10:21-04:00</updated>
+    <id>http://nancyko.github.io/blog/2015/08/05/my-first-post</id>
+    <content type="html"><![CDATA[<p>&ldquo;Hello, World.&rdquo;</p>
+]]></content>
+  </entry>
+  
+</feed>
