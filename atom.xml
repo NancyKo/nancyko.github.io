@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[NKo]]></title>
+  <title><![CDATA[Nancy Ko]]></title>
   <link href="http://nancyko.github.io/atom.xml" rel="self"/>
   <link href="http://nancyko.github.io/"/>
-  <updated>2015-08-06T07:09:00-04:00</updated>
+  <updated>2015-08-22T15:49:29-04:00</updated>
   <id>http://nancyko.github.io/</id>
   <author>
     <name><![CDATA[nancyko]]></name>
@@ -12,6 +12,61 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Keeping Track]]></title>
+    <link href="http://nancyko.github.io/blog/2015/08/20/keeping-track/"/>
+    <updated>2015-08-20T00:28:32-04:00</updated>
+    <id>http://nancyko.github.io/blog/2015/08/20/keeping-track</id>
+    <content type="html"><![CDATA[<p>Trying to learn something can be challenging.  You might not get everything at first, and have to move on to a new topic before ever feeling comfortable with the previous one. I never liked that feeling and always felt like I&rsquo;ll forget to go back to it later.</p>
+
+<p>A lot of people say, if you don&rsquo;t want to forget something to write it down. So making a list of every topic and learning objective to keep track of everything makes sense to me. I went through a few versions because it was challenging to make just a list for a high-impact learning enivornment. Learning something conceptually and then taking those concepts and applying them in a real-world environment, the list should reflect both conceptual and applied learning to be complete. I also wanted it to be more visual where I could get a sense of where I am at a glance.</p>
+
+<p>To make my list I started off with looking at each section of the curriculum and matching the name of the section with a column in my list and calling it &lsquo;Topic&rsquo;.  Writing the specific learning objectives in the next column followed by whether it is the conceptual or the applied part of high-impact learning. And finlly, a column that acts as my marker of whether something is complete or can I do this and green and red fields just to make it more visual.</p>
+
+<p>After some tweaks and suggestions from others, here&rsquo;s what I came up with so far:</p>
+
+<p>Conceptual:
+<a href="http://imgur.com/zxdv9Me"><img src="http://i.imgur.com/zxdv9Me.png" title="source: imgur.com" /></a>
+</br>
+</br>
+</br>
+</br>
+</br>
+The applied learning objectives ask for something to be done
+Applied:
+<a href="http://imgur.com/M73vpR2"><img src="http://i.imgur.com/M73vpR2.png" title="source: imgur.com" /></a>
+</br>
+</br>
+</br>
+</br>
+</br></p>
+
+<p>When making my tracker, I like to have the &lsquo;Can I do this&rsquo;, &lsquo;Is this complete&rsquo; column start off with &lsquo;No&rsquo; because it feels really good when changing it to &lsquo;Yes&rsquo;.
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+<a href=")http://imgur.com/XlnAAjp"><img src="http://i.imgur.com/XlnAAjp.png" title="source: imgur.com" /></a>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+<img src="http://i.imgur.com/q5XJKpl.png" alt="image" /></p>
+
+<p></br>
+</br>
+</br>
+</br>
+</br></p>
+
+<p>keep learning!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[My First Post]]></title>
