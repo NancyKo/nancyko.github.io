@@ -4,7 +4,7 @@
   <title><![CDATA[Nancy Ko]]></title>
   <link href="http://nancyko.github.io/atom.xml" rel="self"/>
   <link href="http://nancyko.github.io/"/>
-  <updated>2015-08-22T15:59:09-04:00</updated>
+  <updated>2015-09-03T07:59:05-04:00</updated>
   <id>http://nancyko.github.io/</id>
   <author>
     <name><![CDATA[nancyko]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[SDLC: Agile and Waterfall]]></title>
+    <link href="http://nancyko.github.io/blog/2015/09/02/sdlc-agile-waterfall/"/>
+    <updated>2015-09-02T23:21:16-04:00</updated>
+    <id>http://nancyko.github.io/blog/2015/09/02/sdlc-agile-waterfall</id>
+    <content type="html"><![CDATA[<p>If you&rsquo;ve read articles on technology, worked in technology or even looked at some help wanted listings, you probably seen the words Software Development Life Cycle or SDLC or one of its methodologies.  Software development life cycle is a process that encompasses the design, planning, testing and delivery of a product. There are many methods but two I&rsquo;d like to outline are Agile and Waterfall.</p>
+
+<p>Agile:  iterativative cycle where features are developed in whole and delivered to the client as they are finished. Some aspects of agile include: scrum, sprints, kanban, user story, test driven development.</p>
+
+<p>What does agile look like: <img src="http://i.imgur.com/7PwAOeq.png" title="Agile kanban" alt="Agile kanban" /></p>
+
+<p>If you&rsquo;re in a workplace that practices test driven development, some sort of unit tests will be written before any actual building.  They test the interface of a unit before implementation. Seems counterintuitive.</p>
+
+<p>Waterfall: Design and deveopment process in which the project is envisioned whole, developed whole, Q/A acceptanced tested as whole and delivered finished. Some aspects of waterfall include: requirement docs, gantt charts, project managers and a testing cycle.</p>
+
+<p>What does waterfall look like:</p>
+
+<p>Requirements -> Design  -> Build -> Testing/Debugging -> Maintain</p>
+
+<p>Time spent on each phase of the cycle increases.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Keeping Track]]></title>
