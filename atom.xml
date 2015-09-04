@@ -4,7 +4,7 @@
   <title><![CDATA[Nancy Ko]]></title>
   <link href="http://nancyko.github.io/atom.xml" rel="self"/>
   <link href="http://nancyko.github.io/"/>
-  <updated>2015-09-03T07:59:05-04:00</updated>
+  <updated>2015-09-04T07:23:31-04:00</updated>
   <id>http://nancyko.github.io/</id>
   <author>
     <name><![CDATA[nancyko]]></name>
@@ -30,9 +30,11 @@
 
 <p>What does waterfall look like:</p>
 
-<p>Requirements -> Design  -> Build -> Testing/Debugging -> Maintain</p>
+<p><img src="http://i.imgur.com/tIJuEty.png" title="Requirements -&gt; Design  -&gt; Build -&gt; Testing/Debugging -&gt; Maintain" alt="Agile kanban" /></p>
 
-<p>Time spent on each phase of the cycle increases.</p>
+<p>There&rsquo;s little overlap between phases. So most of the requirements would be gathered before design of the product. Time spent on each phase increases with each progression of the cycle. Changes to requirements not easily welcomed.  After the product is delivered, suggestions for improvements are pooled and the process starts over again.</p>
+
+<p>These two methods aren&rsquo;t set in stone and some aspects can be incorporated into another, like test driven development. Right now, I don&rsquo;t see one method as being more superior over the other. Choosing the right process depends on what your&rsquo;re working on, your client and your product.</p>
 ]]></content>
   </entry>
   
